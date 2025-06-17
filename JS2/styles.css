@@ -1,0 +1,13 @@
+#resultado {
+    height: 200px;
+    width: 500px;
+    border-radius: 5%;
+    border: solid blue;
+    background-color: rgba(150, 60, 60, 0.5);
+}
+
+/*8*/
+#cont-lista{
+    height: 1000px;
+    width: 100%;
+}
